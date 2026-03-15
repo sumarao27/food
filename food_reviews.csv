@@ -1,0 +1,31 @@
+food_item,review,sentiment
+Pizza,Very tasty and fresh,positive
+Burger,Too oily and cold,negative
+Pasta,Average taste,neutral
+Biryani,Very delicious and spicy,positive
+Dosa,Crispy and tasty,positive
+Idli,Too dry,negative
+Fried Rice,Good flavor,positive
+Noodles,Not cooked properly,negative
+Sandwich,Okay taste,neutral
+Ice Cream,Very sweet and creamy,positive
+Cake,Soft and delicious,positive
+Coffee,Bitter taste,negative
+Tea,Good aroma,positive
+Salad,Fresh vegetables,positive
+Soup,Too salty,negative
+Pizza,Cheese was amazing,positive
+Burger,Not fresh,negative
+Pasta,Normal taste,neutral
+Biryani,Very flavorful,positive
+Dosa,Too oily,negative
+Idli,Soft and good,positive
+Fried Rice,Average taste,neutral
+Noodles,Very tasty,positive
+Sandwich,Too dry,negative
+Ice Cream,Good but too sweet,neutral
+Cake,Very fresh and tasty,positive
+Coffee,Perfect taste,positive
+Tea,Too strong,negative
+Salad,Healthy and fresh,positive
+Soup,Good taste,positive
